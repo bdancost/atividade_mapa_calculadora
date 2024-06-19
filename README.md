@@ -54,10 +54,6 @@ Você pode personalizar os valores de consumo no arquivo `script.js` se necessá
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a MIT License. Consulte o arquivo `LICENSE` para obter mais informações.
 
-## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato com [seu-email@dominio.com](mailto:seu-email@dominio.com).
